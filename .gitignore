@@ -1,0 +1,9 @@
+# Ne pas versionner les contenus dynamiques
+uploads/
+*.log
+
+# Éditeurs
+.vscode/
+
+# Node
+node_modules/
