@@ -1,6 +1,6 @@
 # prelem-backend-wordpress
 
-![CI - PHP Lint](https://github.com/SLassalle/mprelem-backend-wordpress/actions/workflows/check-php.yml/badge.svg)
+![CI - PHP Lint](https://github.com/SLassalle/prelem-backend-wordpress/actions/workflows/check-php.yml/badge.svg)
 
 
 Ce dépôt contient le code personnalisé pour le backend WordPress headless du projet **Prelem**.
